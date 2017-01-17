@@ -1,0 +1,33 @@
+# Autodetect text files
+# * text=auto
+
+* binary
+
+# ...Unless the name matches the following
+# overriding patterns
+
+# Definitively text files 
+# *.txt text
+# *.c text
+# *.h text
+# *.pl binary
+# *.py text
+# *.php text
+# *.java text
+# *.cmd text
+# *.ini text
+# 
+# # Ensure those won't be messed up with
+# *.jpg binary
+# *.data binary
+# *.pdf binary
+# *.pptx binary
+# *.docx binary
+# *.xlsx binary
+# *.gz binary
+# *.bz2 binary
+# *.dat binary
+# *.tar binary
+
+# --- end ---
+
