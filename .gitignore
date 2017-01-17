@@ -4,6 +4,9 @@
 *.log
 *.gz
 
+# Wiki - is a subrepository, using a different "push-link"
+/wiki
+
 # Vagrant stuff
 acceptance_config.yml
 boxes/*
